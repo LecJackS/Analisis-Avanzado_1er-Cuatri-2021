@@ -1,0 +1,6 @@
+numpy
+# To show distances
+pandas
+# To render the graph
+networkx
+matplotlib
